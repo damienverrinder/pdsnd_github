@@ -6,6 +6,7 @@ Learning GitHub Project
 
 ### Description
 Purpose of project is to learn github and using git for version control.
+This also covers github as remote repo.
 
 ### Files used
 bikeshare.py README.md
