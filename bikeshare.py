@@ -164,7 +164,6 @@ def time_stats(df):
     global timefilter
 
     # TO DO: display the most common start hour
-    df['Start Hour'] = df['Start Time'].dt.hour
     most_common_hour = df['Start Hour'].mode()[0]
 
     trips = df[df['Start Hour'] == most_common_hour]['Start Time'].count()
