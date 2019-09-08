@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+08/09/2019
 
 ### Project Title
-Replace the Project Title
+Learning GitHub Project
 
 ### Description
-Describe what your project is about and what it does
+Purpose of project is to learn github and using git for version control.
 
 ### Files used
-Include the files used
+bikeshare.py README.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credit goes to the Udacity nano degree for original repo:
+https://github.com/udacity/pdsnd_github
