@@ -10,6 +10,7 @@ This also covers github as remote repo.
 
 ### Files used
 bikeshare.py README.md
+Ignored data files
 
 ### Credits
 Credit goes to the Udacity nano degree for original repo:
