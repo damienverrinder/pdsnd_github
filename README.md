@@ -14,3 +14,4 @@ bikeshare.py README.md
 ### Credits
 Credit goes to the Udacity nano degree for original repo:
 https://github.com/udacity/pdsnd_github
+No other credits at this stage.
