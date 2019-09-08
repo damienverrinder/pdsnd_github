@@ -16,3 +16,6 @@ Ignored data files
 Credit goes to the Udacity nano degree for original repo:
 https://github.com/udacity/pdsnd_github
 No other credits at this stage.
+
+## What time are you finishing this?
+Currently working at 11:00pm Sunday 8th September.
